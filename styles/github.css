@@ -10,14 +10,14 @@ div{
     background-repeat: none;
 }
 .second{
-    background-image: url(/901101.png);
+    background-image: url("/901101.png");
     background-size: auto;
     background-repeat: none;
 }
 #third{
-    background-image: url(/1081932.jpg);
+    background-image: url("/1081932.jpg");
     background-size:auto;
-    visibility: hidden;
+    /* visibility: hidden; */
     
 }
 h3{
