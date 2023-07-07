@@ -1,0 +1,28 @@
+div{
+    color: navy;
+    background-color: aqua;
+    margin: 10px;
+    padding: 10px;
+}
+#first{
+    background-image: url("/312123.jpg");
+    background-size: cover;
+    background-repeat: none;
+}
+.second{
+    background-image: url(/901101.png);
+    background-size: auto;
+    background-repeat: none;
+}
+#third{
+    background-image: url(/1081932.jpg);
+    background-size:auto;
+    visibility: hidden;
+    
+}
+h3{
+    text-align:center;
+}
+*{
+    margin: 20px;
+}
