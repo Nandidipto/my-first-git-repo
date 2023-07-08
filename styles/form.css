@@ -1,0 +1,16 @@
+label{
+    display: block;
+    margin: 5px;
+}
+#search{
+    display: block;
+}
+*{
+    background-color: aquamarine;
+}
+input{
+    background-color: white;
+}
+textarea{
+    background-color: white;
+}
